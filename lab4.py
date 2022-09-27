@@ -16,3 +16,6 @@ for y in range(int(SIZE//2), int(-SIZE//2-1), -1):
             print(" ", end='')
     print()
 
+
+    #comment
+
